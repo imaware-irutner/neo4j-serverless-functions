@@ -1,3 +1,8 @@
+# ***WARNING***
+*THIS REPOSITORY CONTAINS CODE INTENDED FOR NON-PRODUCTION/TEST ENVIRONMENTS ONLY*
+
+*NO CODE FROM THIS REPOSITORY MAY BE DEPLOYED TO PRODUCTION ENVIRONMENTS*
+
 # Neo4j Cloud Functions
 
 [![Actions Status](https://github.com/moxious/neo4j-serverless-functions/workflows/CI/badge.svg)](https://github.com/moxious/neo4j-serverless-functions/actions)
